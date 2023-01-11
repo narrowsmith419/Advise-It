@@ -1,0 +1,17 @@
+{
+  "name": "narrowsmith/328/Advise-It",
+  "description": "Advice-It Project for GRC",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Nathan Arrowsmith",
+      "email": "arrowsmith.nathan@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["classes/", "model/", "controller/"]
+  }
+}
